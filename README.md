@@ -29,6 +29,15 @@ It does not invent anything. I am simply making this available to automate the w
 - Download `ats-resume.skill` and go to Claude Settings > Skills > Upload.
 - Or open Cowork on Claude and paste this GitHub link.
 
+**Claude.ai (free or Pro, no desktop)**
+
+- Open a new conversation.
+- Go to the repo and open `SKILL.md`.
+- Copy the entire file.
+- Paste it at the start of your Claude conversation before uploading your resume.
+- On first use, Claude will run a short onboarding and generate a `context.md` profile. Copy and save that yourself (Notes, Google Drive, anywhere).
+- On every future use, paste your saved `context.md` into the conversation before dropping a job link.
+
 ---
 
 ## Usage
